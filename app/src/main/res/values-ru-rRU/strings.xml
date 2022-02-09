@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoftMoney_Fedonin</string>
+    <string name="Add">   Добавить</string>
+    <string name="helloWorld" >Привет,заходи!</string>
+    <string name="item">Название</string>
+    <string name="price">Стоимость</string>
+    <string name="title_activity_add_button">Расходы</string>
+    <string name="main_activity">Вход</string>
+    <string name="enterButton">тык</string>
+    <string name="first_fragment_label">FirstFragment</string>
+    <string name="second_fragment_label">SecondFragment</string>
+
+</resources>

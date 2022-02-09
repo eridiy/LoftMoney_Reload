@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="HintTextColor">#a6a6a6</color>
+    <color name="PantoneCoolGray2C20">#d0d4d9</color>
+    <color name="Pantone5395C87">#1a252c</color>
+    <color name="PantoneCoolGray2C0">#ec2510</color>
+    <color name="Pantone485C">#e41910</color>
+    <color name="Pantone1955C">#740029</color>
+    <color name="PantoneCoolGray2C01">#ff8585</color>
+
+</resources>
