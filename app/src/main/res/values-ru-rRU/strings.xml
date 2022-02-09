@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">LoftMoney_Fedonin</string>
     <string name="Add">   Добавить</string>
-    <string name="helloWorld" >Привет,заходи!</string>
+    <string name="helloWorld" >Привет мир!</string>
     <string name="item">Название</string>
     <string name="price">Стоимость</string>
     <string name="title_activity_add_button">Расходы</string>
