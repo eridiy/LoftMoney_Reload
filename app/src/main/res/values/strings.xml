@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">LoftMoney_Fedonin</string>
     <string name="Add">   Add</string>
-    <string name="helloWorld" >Hello, App!</string>
+    <string name="helloWorld" >Hello, World!</string>
     <string name="item">Item</string>
     <string name="price">Price</string>
     <string name="title_activity_add_button">Expenses</string>
